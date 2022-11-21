@@ -1,0 +1,17 @@
+kWindowWidth = 480
+kWindowHeight = 600
+kBirdScale = 0.27
+kWindowWidthMultiplier = 2
+kWindowHeightMultiplier = 1
+kMaxWidthTube = 34
+kMinWidthTube = 23
+kMaxHeightTube = 50
+kMinHeightTube = 10
+kVerticalVelocity = 350
+kHorizontalVelocity = 410
+kEndedOnScreen = -100
+kGravitation = 550
+kWidthShift = 0.06
+kHeightShift = 0.5
+kScoreMultiply = 0.1
+kScoreShift = 60
